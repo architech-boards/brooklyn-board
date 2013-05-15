@@ -1,7 +1,6 @@
 .. Brooklyn Board by Silica Architech  documentation master file, created by
    sphinx-quickstart on Wed Apr 10 11:13:41 2013.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+   You can adapt to your liking the file, being careful that the directive contains the root 'toctree'
 
 Welcome to Brooklyn Board by Silica Architech 's documentation!
 ===============================================================

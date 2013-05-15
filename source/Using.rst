@@ -8,7 +8,8 @@ You can find more informations visiting `Maxim Analog Essential Collection <http
 
 Important notice
 ----------------
-**At the date of issue of this review, Maxim Zenboard Platform Project files are available on version 1.6, and don't support MAX14850 Pmod module. As a result this version, that use original files from Maxim project, is not able to emulate this device.**
+**At the date of issue of this review, Maxim Zenboard Platform Project files are available on version 1.6, and don't support MAX14850 Pmod module. 
+As a result this version, that use original files from Maxim project, is not able to emulate this device.**
 
 .. image:: _static/max14850.jpg
 

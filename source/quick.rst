@@ -37,7 +37,8 @@ Hardware setup
 
 .. image:: _static/pmod_in.jpg
 
-**--> Be careful to see device reference next to connector. Each connector is designed for one or more devices and will only accept dedicated modules.**
+**--> Be careful to see device reference next to connector. 
+Each connector is designed for one or more devices and will only accept dedicated modules.**
 
 - Plug Mini USB type-B cable into Cpu Board plug and connect to PC with Codewarrior. TWR power led will on
 
@@ -184,7 +185,7 @@ and after you can see the main menu
 .. image:: _static/second.jpg 
 
 | Now select device menu (typing selection key in the terminal window) and follow menu option to test device.
-| **It' strongly recomended to change or insert Pmod Modules when Tower System is off (without power).** 
+| **It is strongly recommended to change or insert Pmod Modules when Tower System is off (without power).** 
 | Then, turn off the power by disconnecting the Mini USB B-type cable, remove device (if present) and insert new module in properly connector. 
 | Turn on the power by plug the Mini USB B-type cable. The program will restart. Follow same steps used before to test new device
 

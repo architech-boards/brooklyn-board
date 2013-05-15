@@ -21,7 +21,7 @@ and create a default work folder named **workspace** in the path **C:\\Users\\**
 
 .. image:: _static/cw_work.jpg
 
-| make shure that setup have been installed Jungo Driver. See your system configuration (righ-click on Computer --> Properties --> Device Manager)
+| make sure that setup have been installed Jungo Driver. See your system configuration (righ-click on Computer --> Properties --> Device Manager)
 | if you have any troubles about, read Codewarrior install Guide
 
 .. image:: _static/jungo.jpg

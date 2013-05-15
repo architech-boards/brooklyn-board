@@ -1,12 +1,13 @@
 Firmware changes
 ****************
 
-1 - added include file **MaxFuncRedefinition.h** at the top of **MaximPmod.c** file. This file must be the first include in list.
+1 - added include file **MaxFuncRedefinition.h** at the top of **MaximPmod.c** file. 
+    This file must be the first to be included in the list.
 
-:: 
+::
 
  #include "MaxFuncRedifinition.h"  <----
- 
+
  #include <stdio.h>
  #include "platform.h"
  #include "menu.h"
@@ -16,7 +17,8 @@ Firmware changes
 
  #define MAJOR_REVISION 1
  #define MINOR_REVISION 6
- 
+
+
 2 - renamed **main()** function inside **MaximPmod.c** file with new name **main_pmod()**.
 
 ::
@@ -25,9 +27,8 @@ Firmware changes
  /**
  * \brief       Main() function for Analog Essentials example program.
  * \par         Details
- *              This function sets up and initializes the FPGA and hardware, displays the root menu via
- *              Hyperterminal, then dispatches inidividual demo programs for specific module based on
- *              user's keypress selection.
+ *              This function allows you to set and initializes the FPGA and hardware, which will appear in the main menu by
+                HyperTerminal, which will send the demo of individual programs to the basic module.
  *
  * \param       None
  *
@@ -59,3 +60,4 @@ Firmware changes
  // Although emprirically tested to 1.0000003 seconds, it is not meant to be used for precise timing purposes
 	
 **NOTE: All these changes are tested on revision 1.6 of Maxim project files and need to be checked on further new revisions**
+
