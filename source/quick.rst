@@ -18,7 +18,7 @@ Hardware requirements
 Software requirements
 ---------------------
 
-- CodeWarrior MCU v10.3 Special Edition (`download here <http://www.freescale.com/webapp/sps/site/prod_summary.jsp?code=CW-MCU10>`_).
+- CodeWarrior MCU v10.3 Special Edition (`download here <http://www.freescale.com/webapp/sps/site/prod_summary.jsp?code=CW-MCU10&fpsp=1&tab=Design_Tools_Tab>`_).
 - Brooklyn Board application firmware for TWR-K70F120M system (download here ....)
 
 Hardware setup

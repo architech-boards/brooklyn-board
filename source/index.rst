@@ -25,7 +25,7 @@ http://www.freescale.com/webapp/sps/site/prod_summary.jsp?code=TWR-K70F120M&tid=
 Developement software used is CodeWarrior MCU v10.3 Special Edition.
 
 | This application is free downlodable from Freescale site. Go to:
-| http://www.freescale.com/webapp/sps/site/prod_summary.jsp?code=CW-MCU10
+| http://www.freescale.com/webapp/sps/site/prod_summary.jsp?code=CW-MCU10&fpsp=1&tab=Design_Tools_Tab
 
 and select "offline" package. (note that download can take much time ...)
 
