@@ -1,4 +1,4 @@
-brooklyn
-========
+brooklyn-pixi
+=============
 
-Brooklyn
+Brooklyn pixi
