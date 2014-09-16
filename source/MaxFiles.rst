@@ -74,4 +74,4 @@ and include files
 
 .. image:: _static/CW_prj.jpg
 
-Detailed documentation of firmware can be downloaded ..... link
+Detailed documentation of firmware can be downloaded from: http://www.architechboards.org/product/brooklyn-board

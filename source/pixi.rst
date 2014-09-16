@@ -83,11 +83,11 @@ navigate to your folder containing the MAX11300 register configuration file (an 
 
 .. image:: _static/pixi/pixi8.jpg
 
-When transfer ends, press "**ENTER**" to start programming device, "**END**" to abort
+When transfer ends, press "**ENTER**" to start programming device, "**DEL**" to abort
 
 .. image:: _static/pixi/pixi9.jpg
 
-confirmation screen: hit ENTER to continue, END to abort
+confirmation screen: hit "**ENTER**" to continue, "**DEL**" to abort
 
 .. image:: _static/pixi/pixi10.jpg
 
