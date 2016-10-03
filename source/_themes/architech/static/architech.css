@@ -212,15 +212,6 @@ a:focus {
   color: #005580;
   text-decoration: underline;
 }
-.rst-versions.rst-badge,
-.rst-current-version {
-    width: auto;
-    height: 30px;
-    line-height: 30px;
-    padding: 0px 6px;
-    display: none;
-    text-align: center;
-}
 .img-rounded {
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
@@ -5214,7 +5205,7 @@ a.badge:focus {
   visibility: hidden;
 }
 .affix {
-  position: relative;
+  position: fixed;
 }
 body {
   padding-top: 60px;
