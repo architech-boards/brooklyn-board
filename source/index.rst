@@ -8,9 +8,8 @@ Welcome to Brooklyn Board by Silica Architech 's documentation!
 
 :Version: 2.0.0 release v2
 :Date: july 24,2014
-:Copyright: (C)2013-2014 by Silica an Avnet company
+:Copyright: (C)2016 by Avnet Silica company
 
-.. image:: _static/silica.png
 .. image:: _static/freescale.jpg
 .. image:: _static/maxim.jpg
 
